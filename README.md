@@ -1,5 +1,5 @@
 # WhatIsYourNumber
-## Dicoding Submission for "Belajar Fundamental Front-End Web Development"
+Dicoding Submission for "Belajar Fundamental Front-End Web Development"
 
 ### Prerequisite of this submission
 - [x] ES6 Syntax standard
